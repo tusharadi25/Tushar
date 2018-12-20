@@ -25,7 +25,7 @@ let data = {
   'labelTwitter': chalk.white.bold('   Twitter:'),
   'labelGitHub': chalk.white.bold('    GitHub:'),
   'labelLinkedIn': chalk.white.bold('  LinkedIn:'),
-  'labelWeb': chalk.white.bold('Instagram:'),
+  'labelWeb': chalk.white.bold('  Instagram:'),
   'labelCard': chalk.white.bold('      Card:')
 }
 

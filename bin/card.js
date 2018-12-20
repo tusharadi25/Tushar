@@ -36,7 +36,7 @@ var working = `${data.labelWork}  ${data.work}`
 var twittering = `${data.labelTwitter}  ${data.twitter}`
 var githubing = `${data.labelGitHub}  ${data.github}`
 var linkedining = `${data.labelLinkedIn}  ${data.linkedin}`
-var instagram = `${data.labelWeb}  ${data.web}`
+var instagram = `${data.labelWeb}  ${data.Instagram}`
 var carding = `${data.labelCard}  ${data.npx}`
 
 // Put all our output together into a single variable so we can use boxen effectively

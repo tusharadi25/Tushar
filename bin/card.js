@@ -7,7 +7,7 @@ var boxen = require('boxen')
 
 // Define options for Boxen
 let options = {
-  padding: 2,
+  padding: 1,
   margin: 1,
   borderStyle: 'round'
 }
@@ -25,7 +25,7 @@ let data = {
   'labelTwitter': chalk.white.bold('   Twitter:'),
   'labelGitHub': chalk.white.bold('    GitHub:'),
   'labelLinkedIn': chalk.white.bold('  LinkedIn:'),
-  'labelWeb': chalk.white.bold('	Instagram:'),
+  'labelWeb': chalk.white.bold('Instagram:'),
   'labelCard': chalk.white.bold('      Card:')
 }
 

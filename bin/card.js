@@ -7,7 +7,7 @@ var boxen = require('boxen')
 
 // Define options for Boxen
 let options = {
-  padding: 1,
+  padding: 2,
   margin: 1,
   borderStyle: 'round'
 }
